@@ -177,12 +177,32 @@ sections:
         textAlign: center
 
   - title:
+    image:
+      url: /images/bossman.png
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    justifyContent: center
+
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+    type: DividerSection
+
+  - title:
       text: Meet the Agents
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
+
     people:
       - content/data/person1.json
       - content/data/person2.json
