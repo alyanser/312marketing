@@ -27,7 +27,15 @@
         },
         {
             "label": "About us",
-            "url": "#aboutus",
+            "url": "/#aboutus",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
+        },
+        {
+            "label": "Contact us",
+            "url": "/#contactus",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
