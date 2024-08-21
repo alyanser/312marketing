@@ -4,42 +4,18 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
-      color: text-dark
+      text: 312 Marketing
+      color: text-primary
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: A Real Estate Company
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+      If you are willing to buy or sell any type of property whether it be residential or commercial, then you have come to the right place. <b>312 Marketing</b> will guide you in making the right monetary decisions depending on your budget and priorities. Our <b>[agents](agents)</b> have vast amount of expertise in property management. You can expect utter professionalism, trust and fast response timing while communicating with them. Get a free consultation right now by contacting any of our agents.
+
     media:
-      url: /images/main-hero.svg
+      url: /images/logo.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -53,17 +29,17 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
-      color: text-dark
+      text: Why Choose Us
+      color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Our Services
+
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: Real Estate Consultancy
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -148,13 +124,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
