@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: A Real Estate Company
     text: >
-      If you are willing to buy or sell any type of property whether it be residential or commercial, then you have come to the right place. <b>312 Marketing</b> will guide you in making the right monetary decisions depending on your budget and priorities. Our <b>[agents](agents)</b> have vast amount of expertise in property management. You can expect utter professionalism, trust and fast response timing while communicating with them. Get a free consultation right now by contacting any of our agents.
+      If you are willing to buy or sell any type of property whether it be residential or commercial, then you have come to the right place. We will guide you in making the right monetary decisions depending on your budget and priorities. Our <b>[agents](agents)</b> have vast amount of expertise in property management. You can expect utter professionalism, trust and fast response timing while communicating with them. Get a free consultation right now by contacting any of our agents!
 
     media:
       url: /images/logo.jpg
@@ -161,8 +161,6 @@ sections:
       - url: /images/companies/park-view-city.png
         type: ImageBlock
         elementId: budiness
-
-
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
@@ -171,7 +169,7 @@ sections:
         padding:
           - pb-16
           - pt-16
-          - pl-50
+          - pl-16
           - pr-16
       subtitle:
         textAlign: center
@@ -206,17 +204,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-    type: DividerSection
 
   # - type: CarouselSection
   #   title: null
