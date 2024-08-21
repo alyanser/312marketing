@@ -32,14 +32,6 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Link"
-        },
-        {
-            "label": "Contact us",
-            "url": "/#contactus",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
