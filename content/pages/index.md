@@ -120,34 +120,59 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Properties We Deal
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: /images/companies/bahria-karachi.png
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+        elementId: budiness
+
+      - url: /images/companies/bahria-edu.png
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+        elementId: budiness
+
+      - url: /images/companies/bahria-town.png
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+        elementId: budiness
+
+      - url: /images/companies/park-avenue.png
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+        elementId: budiness
+
+      - url: /images/companies/bahria-orchard.png
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+        elementId: budiness
+
+      - url: /images/companies/al-noor-orchard.png
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+        elementId: budiness
+
+      - url: /images/companies/dha-lahore.png
         type: ImageBlock
+        elementId: budiness
+
+      - url: /images/companies/etihad-town.png
+        type: ImageBlock
+        elementId: budiness
+
+      - url: /images/companies/new-lahore-city.png
+        type: ImageBlock
+        elementId: budiness
+
+      - url: /images/companies/park-view-city.png
+        type: ImageBlock
+        elementId: budiness
+
+
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
+        padding:
+          - pb-16
+          - pt-16
+          - pl-50
+          - pr-16
       subtitle:
         textAlign: center
     type: ImageGallerySection
