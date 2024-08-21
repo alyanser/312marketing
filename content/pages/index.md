@@ -27,7 +27,7 @@ sections:
 
     actions:
       - label: More blogs
-        url: /blogs
+        url: /blog
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -70,6 +70,18 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+    type: DividerSection
+
   - type: FeaturedItemsSection
     title:
       text: Why Choose Us
@@ -163,6 +175,46 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+
+  - title:
+      text: Meet the Agents
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedPeopleSection
+
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+    type: DividerSection
+
   - subtitle: Projects We Deal
     images:
       - url: /images/companies/bahria-karachi.png
