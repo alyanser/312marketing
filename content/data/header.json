@@ -19,7 +19,7 @@
         },
         {
             "label": "Agents",
-            "url": "/careers",
+            "url": "/agents",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
