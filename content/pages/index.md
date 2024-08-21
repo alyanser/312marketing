@@ -41,9 +41,7 @@ sections:
       - type: FeaturedItem
         title: Real Estate Consultancy
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          We provide our local and overseas customers help in making correct investment decisions and support in acquisition and disposal of properties. Our team provides end to end services such as transfers, registry and any legal requirements involved in transaction to our clients.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -66,12 +64,10 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: Sales and Marketing
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          We provide promotions, marketing and sales services of all kind of projects based all across Pakistan to our clients using our significant presence on social media platforms such as Youtube, Facebook, Instagram, Twitter and Linkedin.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -91,12 +87,9 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: Property Management
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          We provide complete management of properties of our clients. The management includes collection of rentals, installments, upkeep, management of tenants, repair and maintenance of properties.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -114,16 +107,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
