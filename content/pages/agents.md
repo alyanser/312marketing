@@ -3,7 +3,7 @@ title: Agents
 slug: agents
 sections:
   - title:
-      text: Meet the agents
+      text: Meet the Agents
       color: text-dark
       styles:
         self:

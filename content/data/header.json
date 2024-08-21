@@ -24,6 +24,14 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Link"
+        },
+        {
+            "label": "About us",
+            "url": "#aboutus",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
