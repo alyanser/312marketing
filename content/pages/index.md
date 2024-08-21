@@ -2,6 +2,49 @@
 title: Home
 slug: /
 sections:
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+      - content/pages/blog/case-study-3.md
+      - content/pages/blog/case-study-3.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: false
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-10
+          - pl-10
+          - pb-10
+          - pr-10
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+
+    actions:
+      - label: More blogs
+        url: /blogs
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Button
+        showIcon: true
+
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+    type: DividerSection
+
   - type: GenericSection
     title:
       text: 312 Marketing
