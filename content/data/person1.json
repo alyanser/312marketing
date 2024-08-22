@@ -1,9 +1,8 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Yasir Chaudhry",
+    "role": "Operational Manager",
     "image": {
         "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -32,5 +31,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Yasirchaudhry@312marketing.com<br>+92-300-4255670"
 }

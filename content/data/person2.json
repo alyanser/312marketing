@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Mahnoor Saad",
+    "role": "Investment Advisor",
     "image": {
         "url": "/images/avatar2.svg",
         "altText": "Faizah Chan",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "mahnoorsaad@312marketing.com <br> +92-328-4312312"
 }
