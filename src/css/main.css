@@ -333,10 +333,5 @@
 }
 
 #bossman {
-    height: 50%;
-    width: 90%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 50px;
+    padding-top: 30px;
 }

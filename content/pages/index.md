@@ -162,8 +162,29 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+
+      - title: Construction Services
+        text: >-
+          We have experienced construction specialists and architects which deliver our customers most cost effective solutions for residential and commercial buildings.
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
     elementId: ''
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
