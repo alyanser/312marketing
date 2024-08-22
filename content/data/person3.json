@@ -3,8 +3,7 @@
     "name": "Abdul Salam Rana",
     "role": "Investment Advisor",
     "image": {
-        "url": "/images/avatar3.svg",
-        "altText": "Asher Schmitt",
+        "url": "/images/agents/rana.png",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +32,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "abdulsalamrana@312marketing.com <br> +92-324-4333480"
+    "bio": "abdulsalamrana@312marketing.org<br>+92-324-4333480"
 }

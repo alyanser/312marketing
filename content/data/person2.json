@@ -3,8 +3,7 @@
     "name": "Mahnoor Saad",
     "role": "Investment Advisor",
     "image": {
-        "url": "/images/avatar2.svg",
-        "altText": "Faizah Chan",
+        "url": "/images/agents/mahnoor.png",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +32,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "mahnoorsaad@312marketing.com <br> +92-328-4312312"
+    "bio": "mahnoorsaad@312marketing.org<br>+92-328-4312312"
 }

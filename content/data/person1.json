@@ -2,7 +2,7 @@
     "name": "Yasir Chaudhry",
     "role": "Operational Manager",
     "image": {
-        "url": "/images/avatar1.svg",
+        "url": "/images/agents/yasir.png",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -31,5 +31,5 @@
         }
     },
     "type": "Person",
-    "bio": "Yasirchaudhry@312marketing.com<br>+92-300-4255670"
+    "bio": "yasirchaudhry@312marketing.org<br>+92-300-4255670"
 }
