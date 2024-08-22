@@ -17,10 +17,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-10
-          - pl-10
+          - pt-5
+          - pl-0
           - pb-10
-          - pr-10
+          - pr-0
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
@@ -52,11 +52,10 @@ sections:
       type: TitleBlock
     subtitle: A Real Estate Company
     text: >
-      If you are willing to buy or sell any type of property whether it be residential or commercial, then you have come to the right place. We will guide you in making the right monetary decisions depending on your budget and priorities. Our <b>[agents](agents)</b> have vast amount of expertise in property management. You can expect utter professionalism, trust and fast response timing while communicating with them. Get a free consultation right now by contacting any of our agents!
+      If you are willing to buy or sell any type of property whether it be residential or commercial, then you have come to the right place. We will guide you in making the right monetary decisions depending on your budget and priorities. Our <b>[agents](/#agents)</b> have vast amount of expertise in property management. You can expect utter professionalism, trust and fast response timing while communicating with them. Get a free consultation right now by contacting any of our agents!
 
     media:
       url: /images/logo.jpg
-      altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     elementId: ''
@@ -216,6 +215,11 @@ sections:
           - pr-0
     type: DividerSection
 
+  - tilte:
+    text: >
+      <a name="agents">
+    type: FeaturedItem
+
   - title:
       text: Meet the Agents
       color: text-primary
@@ -323,6 +327,10 @@ sections:
     type: DividerSection
 
   - title:
+    text: <a name="aboutus">
+    type: FeaturedItem
+
+  - title:
       text: About Us
       color: text-primary
       styles:
@@ -330,7 +338,7 @@ sections:
           textAlign: center
       type: TitleBlock
     text: |-
-      <a name="aboutus">312 Marketing Company is a premier real estate firm dedicated to offering comprehensive solutions for those looking to buy or sell properties. Our team, comprised of experienced professionals with deep industry knowledge, is committed to assisting clients in making informed investment decisions that align with their budget. We focus on delivering exceptional value, rapid response times, and professional service at all stages of the process. Recognizing the complexities involved in real estate transactions, we provide expert advice and guidance, underpinned by detailed market analysis and our team's extensive experience.
+      312 Marketing Company is a premier real estate firm dedicated to offering comprehensive solutions for those looking to buy or sell properties. Our team, comprised of experienced professionals with deep industry knowledge, is committed to assisting clients in making informed investment decisions that align with their budget. We focus on delivering exceptional value, rapid response times, and professional service at all stages of the process. Recognizing the complexities involved in real estate transactions, we provide expert advice and guidance, underpinned by detailed market analysis and our team's extensive experience.
      
        Our investment advice is grounded in a deep understanding of the real estate market, enabling us to offer clients the best possible guidance. Our commitment to excellence is evident in our large and satisfied client base, whose success stories are a testament to the value we deliver. 312 Marketing Company serves as a comprehensive resource for all your real estate needs, and we are dedicated to turning your aspirations into reality. If you're considering buying or selling a property, reach out to us for a complimentary consultation. Let us assist you in making the right investment choices and take the first step towards achieving your real estate goals.
 
@@ -622,6 +630,11 @@ sections:
   #     subtitle:
   #       textAlign: center
   #   type: FeaturedItemsSection
+
+  - title:
+    text: <iframe id="location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54508.42654907027!2d74.13979589856318!3d31.365141806992753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3918ff9a30fa362d%3A0x528615a7981ce611!2sBahria%20Town%2C%20Lahore%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1724313791063!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    type: FeaturedItem
+
 seo:
   metaTitle: Home
   metaDescription: This is the homepage.
