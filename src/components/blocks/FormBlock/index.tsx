@@ -18,7 +18,24 @@ export default function FormBlock(props) {
 
         const data = new FormData(formRef.current);
         const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+
+        const { name, phone, subject, message } = value as {
+            name: string;
+            phone: string;
+            subject: string;
+            message: string;
+        };
+
+        const companyEmail = "test@gmail.com";
+
+        const mailtoLink = `mailto:${encodeURIComponent(companyEmail)}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\n\nPhone: ${phone}\n\nMessage:\n${message}`)}`;
+
+        const anchor = document.createElement('a');
+        anchor.href = mailtoLink;
+        anchor.target = '_blank';
+        document.body.appendChild(anchor);
+        anchor.click();
+        document.body.removeChild(anchor);
     }
 
     return (
