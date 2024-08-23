@@ -2,37 +2,34 @@
 title: Home
 slug: /
 sections:
-  # - posts:
-  #     - content/pages/blog/case-study-1.md
-  #     - content/pages/blog/case-study-2.md
-  #     - content/pages/blog/case-study-3.md
-  #     - content/pages/blog/case-study-3.md
-  #     - content/pages/blog/case-study-3.md
-  #     - content/pages/blog/case-study-3.md
-  #   showThumbnail: true
-  #   showDate: true
-  #   showAuthor: false
-  #   variant: three-col-grid
-  #   colors: bg-light-fg-dark
-  #   styles:
-  #     self:
-  #       padding:
-  #         - pt-5
-  #         - pl-0
-  #         - pb-10
-  #         - pr-0
-  #       justifyContent: center
-  #   type: FeaturedPostsSection
-  #   hoverEffect: move-up
+  - posts:
+      - content/pages/bahria-orchard-lahore.md
+      - content/pages/bahria-orchard-lahore.md
+      - content/pages/bahria-orchard-lahore.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: false
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-5
+          - pl-0
+          - pb-10
+          - pr-0
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
 
-  #   actions:
-  #     - label: More blogs
-  #       url: /blog
-  #       icon: arrowRight
-  #       iconPosition: right
-  #       style: primary
-  #       type: Button
-  #       showIcon: true
+    actions:
+      - label: More blogs
+        url: /blog
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Button
+        showIcon: true
 
   - title: Divider
     colors: bg-light-fg-dark
