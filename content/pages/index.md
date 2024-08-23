@@ -198,7 +198,7 @@ sections:
 
   - title:
     image:
-      url: /images/bossman.png
+      url: /images/bossman.jpg
       type: ImageBlock
       elementId: bossman
     type: FeaturedItem
