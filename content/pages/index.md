@@ -24,7 +24,7 @@ sections:
 
     actions:
       - label: More blogs
-        url: /blog
+        url: /
         icon: arrowRight
         iconPosition: right
         style: primary
