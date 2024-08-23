@@ -26,9 +26,9 @@ export default function FormBlock(props) {
             message: string;
         };
 
-        const companyEmail = "test@gmail.com";
+        const companyEmail = "queries@312marketing.org";
 
-        const mailtoLink = `mailto:${encodeURIComponent(companyEmail)}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\n\nPhone: ${phone}\n\nMessage:\n${message}`)}`;
+        const mailtoLink = `mailto:${encodeURIComponent(companyEmail)}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`${message}\n\nRegards,\n${name}\nPhone # ${phone}`)}`;
 
         const anchor = document.createElement('a');
         anchor.href = mailtoLink;

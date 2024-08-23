@@ -15,6 +15,14 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "label": "Contact Us",
+                "url": "/#contactus",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
             }
         ],
         "type": "FooterLinksGroup"
@@ -24,8 +32,7 @@
         "links": [
             {
                 "label": "Agents",
-                "altText": "agents page",
-                "url": "/agents",
+                "url": "/#agents",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,7 +44,7 @@
     "socialLinks": [
         {
             "altText": "Email link",
-            "url": "",
+            "url": "mailto:queries@312marketing.org",
             "icon": "mail",
             "type": "Social"
         },
