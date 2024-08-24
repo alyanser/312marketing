@@ -52,7 +52,7 @@ sections:
       If you are willing to buy or sell any type of property whether it be residential or commercial, then you have come to the right place. We will guide you in making the right monetary decisions depending on your budget and priorities. Our <b>[agents](/#agents)</b> have vast amount of expertise in property management. You can expect utter professionalism, trust and fast response timing while communicating with them. Get a free consultation right now by contacting any of our agents!
 
     media:
-      url: /images/logo.jpg
+      url: /images/logo.png
       elementId: ''
       type: ImageBlock
     elementId: ''
