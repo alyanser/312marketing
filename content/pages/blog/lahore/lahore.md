@@ -43,6 +43,7 @@ sections:
       - content/pages/blog/lahore/bahria-orchard.md
       - content/pages/blog/lahore/iqbal-garden.md
       - content/pages/blog/lahore/dream-housingsociety.md
+      - content/pages/blog/lahore/maryam-town.md
 
     showThumbnail: true
     showDate: true
