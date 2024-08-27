@@ -26,18 +26,192 @@ styles:
 
 sections:
 
-  - type: GenericSection
-    title:
-        text: Bahria Orchard Lahore
-        color: text-primary
-        styles:
-          self:
-            textAlign: right
-        type: TitleBlock
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0001.jpg
+      type: ImageBlock
+      elementId: bossman
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    type: FeaturedItem
+    justifyContent: center
 
   - title:
-    text: <iframe id="pdfiframe" src="/pdfs/bahria-orchard.pdf"/>
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0003.jpg
+      type: ImageBlock
+      elementId: bossman
     type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0004.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0005.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0006.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0007.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0008.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0009.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0010.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0011.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0012.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
+
+
+  - title:
+    image:
+      url: /blogs/bahria-orchard-lahore/bahria-orchard_page-0013.jpg
+      type: ImageBlock
+      elementId: bossman
+    type: FeaturedItem
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-10
+          - pb-0
+          - pr-10
+    justifyContent: center
 
   - title: Divider
     colors: bg-light-fg-dark
