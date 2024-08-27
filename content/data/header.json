@@ -18,6 +18,14 @@
             "type": "Link"
         },
         {
+            "label": "Blogs",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Link"
+        },
+        {
             "label": "Agents",
             "url": "/#agents",
             "icon": "arrowRight",

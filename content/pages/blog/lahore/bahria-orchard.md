@@ -1,6 +1,6 @@
 ---
-title: Bahria Orchard Lahore
-slug: bahria-orchard-lahore
+title: Bahria Orchard
+slug: /blog/lahore/bahria-orchard
 type: PageLayout
 
 featuredImage:

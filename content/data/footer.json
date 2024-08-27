@@ -9,6 +9,14 @@
         "title": "Links",
         "links": [
             {
+                "label": "Blogs",
+                "url": "/blog",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
                 "label": "About Us",
                 "url": "/#aboutus",
                 "icon": "arrowRight",
