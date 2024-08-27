@@ -4,6 +4,7 @@ slug: /blog/lahore
 
 featuredImage:
   url: /images/lahore.webp
+  elementId: thumbnail
   styles:
     self:
       borderRadius: x-large
@@ -40,9 +41,11 @@ sections:
 
   - posts:
       - content/pages/blog/lahore/bahria-orchard.md
+      - content/pages/blog/lahore/iqbal-garden.md
+      - content/pages/blog/lahore/dream-housingsociety.md
 
     showThumbnail: true
-    showDate: false
+    showDate: true
     showAuthor: false
     variant: three-col-grid
     colors: bg-light-fg-dark

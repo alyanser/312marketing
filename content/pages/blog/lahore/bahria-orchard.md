@@ -5,6 +5,7 @@ type: PageLayout
 
 featuredImage:
   url: /images/bahria-orchard-blog.jpg
+  elementId: thumbnail
   styles:
     self:
       borderRadius: x-large
@@ -13,7 +14,7 @@ featuredImage:
 styles:
   self:
     padding:
-      - pt-5
+      - pt-3
       - pl-5
       - pb-5
       - pr-5
@@ -196,7 +197,6 @@ sections:
           - pb-0
           - pr-10
     justifyContent: center
-
 
   - title:
     image:

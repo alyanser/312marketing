@@ -4,8 +4,9 @@ slug: /
 sections:
   - posts:
       - content/pages/blog/lahore/bahria-orchard.md
-      - content/pages/bahria-orchard-lahore.md
-      - content/pages/bahria-orchard-lahore.md
+      - content/pages/blog/lahore/iqbal-garden.md
+      - content/pages/blog/lahore/dream-housingsociety.md
+
     showThumbnail: true
     showDate: true
     showAuthor: false
