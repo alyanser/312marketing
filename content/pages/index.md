@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - posts:
-      - content/pages/bahria-orchard-lahore.md
+      - content/pages/blog/lahore/bahria-orchard.md
       - content/pages/bahria-orchard-lahore.md
       - content/pages/bahria-orchard-lahore.md
     showThumbnail: true
@@ -24,7 +24,7 @@ sections:
 
     actions:
       - label: More blogs
-        url: /
+        url: /blog
         icon: arrowRight
         iconPosition: right
         style: primary

@@ -6,6 +6,19 @@ enableSearch: false
 
 sections:
 
+  - title:
+      text: Blogs
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+    type: GenericSection
+
   - posts:
       - content/pages/blog/lahore/lahore.md
 
@@ -17,10 +30,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-5
+          - pt-0
           - pl-0
           - pb-10
-          - pr-0
+          - pr-5
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up

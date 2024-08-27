@@ -4,7 +4,7 @@ slug: /blog/lahore/bahria-orchard
 type: PageLayout
 
 featuredImage:
-  url: /images/bahria-orchard-thumbnail.jpg
+  url: /images/bahria-orchard-blog.jpg
   styles:
     self:
       borderRadius: x-large
