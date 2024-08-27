@@ -3,9 +3,10 @@ title: Home
 slug: /
 sections:
   - posts:
-      - content/pages/bahria-orchard-lahore.md
-      - content/pages/bahria-orchard-lahore.md
-      - content/pages/bahria-orchard-lahore.md
+      - content/pages/blog/lahore/bahria-orchard.md
+      - content/pages/blog/lahore/iqbal-garden.md
+      - content/pages/blog/lahore/dream-housingsociety.md
+
     showThumbnail: true
     showDate: true
     showAuthor: false
@@ -24,7 +25,7 @@ sections:
 
     actions:
       - label: More blogs
-        url: /
+        url: /blog
         icon: arrowRight
         iconPosition: right
         style: primary
