@@ -3,9 +3,9 @@ title: Home
 slug: /
 sections:
   - posts:
-      - content/pages/blog/lahore/bahria-orchard.md
       - content/pages/blog/lahore/iqbal-garden.md
-      - content/pages/blog/lahore/dream-housingsociety.md
+      - content/pages/blog/islamabad/park-view-city.md
+      - content/pages/blog/commercial/elegance-tower.md
 
     showThumbnail: true
     showDate: true
