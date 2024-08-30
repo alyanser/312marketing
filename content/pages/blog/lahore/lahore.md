@@ -45,6 +45,8 @@ sections:
       - content/pages/blog/lahore/dream-housingsociety.md
       - content/pages/blog/lahore/maryam-town.md
       - content/pages/blog/lahore/al-kabir-town.md
+      - content/pages/blog/lahore/park-view-city.md
+      - content/pages/blog/lahore/kings-town.md
 
     showThumbnail: true
     showDate: true
