@@ -4,7 +4,7 @@ slug: /blog/lahore/dha-lahore
 type: PageLayout
 
 featuredImage:
-  url: /images/maryam-town-thumbnail.jpg
+  url: /images/companies/dha-lahore.png
   elementId: thumbnail
   styles:
     self:

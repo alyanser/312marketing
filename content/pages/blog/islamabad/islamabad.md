@@ -40,7 +40,8 @@ sections:
     type: GenericSection
 
   - posts:
-      - content/pages/blog/lahore/bahria-orchard.md
+      - content/pages/blog/islamabad/bahria-town.md
+      - content/pages/blog/islamabad/blue-world-city.md
 
     showThumbnail: true
     showDate: true

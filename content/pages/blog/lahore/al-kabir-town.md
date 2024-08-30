@@ -4,7 +4,7 @@ slug: /blog/lahore/al-kabir-town
 type: PageLayout
 
 featuredImage:
-  url: /images/maryam-town-thumbnail.jpg
+  url: /images/al-kabir-town.jpeg
   elementId: thumbnail
   styles:
     self:

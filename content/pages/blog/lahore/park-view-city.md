@@ -4,7 +4,7 @@ slug: /blog/lahore/park-view-city
 type: PageLayout
 
 featuredImage:
-  url: /images/maryam-town-thumbnail.jpg
+  url: /images/park-view-city.jpeg
   elementId: thumbnail
   styles:
     self:

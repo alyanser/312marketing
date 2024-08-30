@@ -4,7 +4,7 @@ slug: /blog/lahore/kings-town
 type: PageLayout
 
 featuredImage:
-  url: /images/maryam-town-thumbnail.jpg
+  url: /images/kings-town.jpeg
   elementId: thumbnail
   styles:
     self:
