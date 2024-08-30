@@ -50,6 +50,14 @@
             "type": "Link"
         }
     ],
+
+    "secondaryLinks": [
+        {
+            "label": "query@312marketing.org",
+            "style": "primary",
+            "type": "Button"
+        }
+    ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
