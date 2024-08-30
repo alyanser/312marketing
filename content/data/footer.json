@@ -57,21 +57,21 @@
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "Instagram Link",
-            "url": "",
+            "url": "https://www.instagram.com/312marketingcompany",
             "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "",
-            "icon": "linkedin",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/312marketingcompany",
+            "icon": "facebook",
+            "type": "Social"
+        },
+        {
+            "altText": "Youtube link",
+            "url": "https://www.youtube.com/@312marketing",
+            "icon": "youtube",
             "type": "Social"
         }
     ],
