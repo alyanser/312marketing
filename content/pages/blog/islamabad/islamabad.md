@@ -1,9 +1,9 @@
 ---
-title: Lahore
-slug: /blog/lahore
+title: Islamabad
+slug: /blog/islamabad
 
 featuredImage:
-  url: /images/lahore.webp
+  url: /images/islamabad.jpg
   elementId: thumbnail
   styles:
     self:
@@ -27,7 +27,7 @@ styles:
 sections:
 
   - title:
-      text: Lahore Blogs
+      text: Islamabad Blogs
       color: text-primary
       styles:
         self:
@@ -41,13 +41,6 @@ sections:
 
   - posts:
       - content/pages/blog/lahore/bahria-orchard.md
-      - content/pages/blog/lahore/iqbal-garden.md
-      - content/pages/blog/lahore/dream-housingsociety.md
-      - content/pages/blog/lahore/maryam-town.md
-      - content/pages/blog/lahore/al-kabir-town.md
-      - content/pages/blog/lahore/park-view-city.md
-      - content/pages/blog/lahore/kings-town.md
-      - content/pages/blog/lahore/dha-lahore.md
 
     showThumbnail: true
     showDate: true

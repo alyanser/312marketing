@@ -21,6 +21,7 @@ sections:
 
   - posts:
       - content/pages/blog/lahore/lahore.md
+      - content/pages/blog/islamabad/islamabad.md
 
     showThumbnail: true
     showDate: false
