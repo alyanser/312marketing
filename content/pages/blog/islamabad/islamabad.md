@@ -42,6 +42,7 @@ sections:
   - posts:
       - content/pages/blog/islamabad/bahria-town.md
       - content/pages/blog/islamabad/blue-world-city.md
+      - content/pages/blog/islamabad/park-view-city.md
 
     showThumbnail: true
     showDate: true

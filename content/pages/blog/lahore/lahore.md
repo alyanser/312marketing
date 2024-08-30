@@ -48,6 +48,7 @@ sections:
       - content/pages/blog/lahore/park-view-city.md
       - content/pages/blog/lahore/kings-town.md
       - content/pages/blog/lahore/dha-lahore.md
+      - content/pages/blog/lahore/etihad-town.md
 
     showThumbnail: true
     showDate: true
