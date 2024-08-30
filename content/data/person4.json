@@ -1,10 +1,9 @@
 {
     "type": "Person",
-    "name": "Nina Mercado",
-    "role": "Co-founder & CEO",
+    "name": "Mazhar Ashiq",
+    "role": "Investment Advisor",
     "image": {
-        "url": "/images/avatar4.svg",
-        "altText": "Nina Mercado",
+        "url": "/images/agents/mazhar.jpeg",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +32,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "mazharashiq@312marketing.org<br>+92-309-8527143"
 }
