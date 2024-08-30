@@ -44,6 +44,7 @@ sections:
       - content/pages/blog/lahore/iqbal-garden.md
       - content/pages/blog/lahore/dream-housingsociety.md
       - content/pages/blog/lahore/maryam-town.md
+      - content/pages/blog/lahore/al-kabir-town.md
 
     showThumbnail: true
     showDate: true
