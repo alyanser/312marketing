@@ -54,6 +54,7 @@
     "secondaryLinks": [
         {
             "label": "query@312marketing.org",
+            "url": "mailto:query@312marketing.org",
             "style": "primary",
             "type": "Button"
         }
