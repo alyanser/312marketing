@@ -40,6 +40,15 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
 
+  - title:
+    text: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> <a href="https://wa.me/923214444140" class="right-float" target="_blank"> <i class="fa fa-whatsapp my-float"></i> </a>
+    type: FeaturedItem
+
+  - title:
+    text: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> <a href="/#contactus" class="left-float"> <i class="fa fa-solid fa-envelope my-float"></i> </a>
+    type: FeaturedItem
+
+
 seo:
   metaTitle: Home
   metaDescription: This is the homepage.
