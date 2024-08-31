@@ -40,6 +40,7 @@ sections:
     type: GenericSection
 
   - posts:
+      - content/pages/blog/lahore/bahria-town.md
       - content/pages/blog/lahore/bahria-orchard.md
       - content/pages/blog/lahore/iqbal-garden.md
       - content/pages/blog/lahore/dream-housingsociety.md

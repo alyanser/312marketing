@@ -1,6 +1,6 @@
 ---
-title: Bahria Town Islamabad
-slug: /blog/islamabad/bahria-town
+title: Bahria Town Lahore
+slug: /blog/lahore/bahria-town
 type: PageLayout
 
 featuredImage:
@@ -29,7 +29,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0000.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0001.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -44,7 +44,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0001.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0002.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -59,7 +59,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0002.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0003.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -74,7 +74,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0003.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0004.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -89,7 +89,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0004.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0005.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -104,7 +104,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0005.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0006.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -119,7 +119,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0006.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0007.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -134,7 +134,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0007.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0008.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -149,7 +149,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0008.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0009.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -164,7 +164,7 @@ sections:
 
   - title:
     image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0009.jpg
+      url: /blogs/bahria-town-lahore/bahria-town-lahore_page-0010.jpg
       type: ImageBlock
       elementId: bossman
     styles:
@@ -176,82 +176,6 @@ sections:
           - pr-10
     type: FeaturedItem
     justifyContent: center
-
-  - title:
-    image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0010.jpg
-      type: ImageBlock
-      elementId: bossman
-    styles:
-      self:
-        padding:
-          - pt-0
-          - pl-10
-          - pb-0
-          - pr-10
-    type: FeaturedItem
-    justifyContent: center
-
-  - title:
-    image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0011.jpg
-      type: ImageBlock
-      elementId: bossman
-    styles:
-      self:
-        padding:
-          - pt-0
-          - pl-10
-          - pb-0
-          - pr-10
-    type: FeaturedItem
-    justifyContent: center
-
-  - title:
-    image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0012.jpg
-      type: ImageBlock
-      elementId: bossman
-    styles:
-      self:
-        padding:
-          - pt-0
-          - pl-10
-          - pb-0
-          - pr-10
-    type: FeaturedItem
-    justifyContent: center
-
-  - title:
-    image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0013.jpg
-      type: ImageBlock
-      elementId: bossman
-    styles:
-      self:
-        padding:
-          - pt-0
-          - pl-10
-          - pb-0
-          - pr-10
-    type: FeaturedItem
-    justifyContent: center
-
-  - title:
-    image:
-      url: /blogs/bahria-town-islamabad/bahria-town-islamabad_page-0014.jpg
-      type: ImageBlock
-      elementId: bossman
-    styles:
-      self:
-        padding:
-          - pt-0
-          - pl-10
-          - pb-0
-          - pr-10
-    type: FeaturedItem
-    justifyContent: center
-
 
 
   - title: Divider
@@ -272,6 +196,5 @@ sections:
   - title:
     text: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> <a href="/#contactus" class="left-float"> <i class="fa fa-solid fa-envelope my-float"></i> </a>
     type: FeaturedItem
-
 
 ---

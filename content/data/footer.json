@@ -47,6 +47,14 @@
         "title": "Featured Blogs",
         "links": [
             {
+                "label": "Bahria Town Lahore",
+                "url": "/blog/lahore/bahria-town",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
                 "label": "DHA Lahore",
                 "url": "/blog/lahore/dha-lahore",
                 "icon": "arrowRight",
