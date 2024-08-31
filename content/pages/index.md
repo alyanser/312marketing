@@ -112,7 +112,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/graph.svg
           styles:
             self:
               borderRadius: x-large
@@ -121,7 +121,10 @@ sections:
           We provide promotions, marketing and sales services of all kind of projects based all across Pakistan to our clients using our significant presence on social media platforms such as Youtube, Facebook, Instagram, Twitter and Linkedin.
 
         image:
-          url: /images/icon2.svg
+          url: /images/economy.svg
+          styles:
+            self:
+              borderRadius: x-large
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -143,7 +146,10 @@ sections:
         text: >-
           We provide complete management of properties of our clients. The management includes collection of rentals, installments, upkeep, management of tenants, repair and maintenance of properties.
         image:
-          url: /images/icon3.svg
+          url: /images/building.svg
+          styles:
+            self:
+              borderRadius: x-large
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -164,8 +170,10 @@ sections:
         text: >-
           We have experienced construction specialists and architects which deliver our customers most cost effective solutions for residential and commercial buildings.
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
+          url: /images/construction.svg
+          styles:
+            self:
+              borderRadius: x-large
           elementId: ''
           type: ImageBlock
         actions: []
@@ -371,8 +379,8 @@ sections:
         - name: phone
           label: Phone
           hideLabel: true
-          placeholder: Your phone number (optional)
-          isRequired: false
+          placeholder: Your phone number
+          isRequired: true
           width: full
           type: TextFormControl
         - name: subject
@@ -414,7 +422,7 @@ sections:
 
 
   - title:
-    text: <iframe id="location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54508.42654907027!2d74.13979589856318!3d31.365141806992753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3918ff9a30fa362d%3A0x528615a7981ce611!2sBahria%20Town%2C%20Lahore%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1724313791063!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    text: <iframe id="location" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d27251.123172227704!2d74.1827116!3d31.3757973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sen!2s!4v1725087386268!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     type: FeaturedItem
 
   - title:

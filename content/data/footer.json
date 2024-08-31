@@ -31,13 +31,7 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
+            },
             {
                 "label": "Agents",
                 "url": "/#agents",
@@ -49,10 +43,64 @@
         ],
         "type": "FooterLinksGroup"
     },
+    "secondaryLinks": {
+        "title": "Featured Blogs",
+        "links": [
+            {
+                "label": "DHA Lahore",
+                "url": "/blog/lahore/dha-lahore",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Etihad Town Lahore",
+                "url": "/blog/lahore/etihad-town",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Elegance Tower",
+                "url": "/blog/commercial/elegance-tower",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Park View City Lahore",
+                "url": "/blog/lahore/park-view-city",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Bahria Town Islamabad",
+                "url": "/blog/islamabad/bahria-town",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Blue World City Islamabad",
+                "url": "/blog/islamabad/blue-world-city",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
     "socialLinks": [
         {
             "altText": "Email link",
-            "url": "mailto:queries@312marketing.org",
+            "url": "mailto:query@312marketing.org",
             "icon": "mail",
             "type": "Social"
         },

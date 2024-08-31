@@ -26,7 +26,7 @@ export default function FormBlock(props) {
             message: string;
         };
 
-        const companyEmail = "queries@312marketing.org";
+        const companyEmail = "query@312marketing.org";
 
         const mailtoLink = `mailto:${encodeURIComponent(companyEmail)}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`${message}\n\nRegards,\n${name}\nPhone # ${phone}`)}`;
 
