@@ -231,7 +231,7 @@ sections:
     type: FeaturedItem
 
   - title:
-      text: Meet the Agents
+      text: Meet the Team
       color: text-primary
       styles:
         self:
