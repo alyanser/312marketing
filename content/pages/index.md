@@ -112,7 +112,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/graph.svg
+          url: /images/graph.png
           styles:
             self:
               borderRadius: x-large
@@ -121,7 +121,7 @@ sections:
           We provide promotions, marketing and sales services of all kind of projects based all across Pakistan to our clients using our significant presence on social media platforms such as Youtube, Facebook, Instagram, Twitter and Linkedin.
 
         image:
-          url: /images/economy.svg
+          url: /images/economy.png
           styles:
             self:
               borderRadius: x-large
@@ -146,7 +146,7 @@ sections:
         text: >-
           We provide complete management of properties of our clients. The management includes collection of rentals, installments, upkeep, management of tenants, repair and maintenance of properties.
         image:
-          url: /images/building.svg
+          url: /images/building.png
           styles:
             self:
               borderRadius: x-large
@@ -172,7 +172,7 @@ sections:
         text: >-
           We have experienced construction specialists and architects which deliver our customers most cost effective solutions for residential and commercial buildings.
         image:
-          url: /images/construction.svg
+          url: /images/construction.png
           styles:
             self:
               borderRadius: x-large
