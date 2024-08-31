@@ -426,7 +426,7 @@ sections:
 
 
   - title:
-    text: <iframe id="location" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d27251.123172227704!2d74.1827116!3d31.3757973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sen!2s!4v1725087386268!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    text: <iframe id="location"? src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2857.2346554052374!2d74.185147066731!3d31.363794269054647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39185562f8caddcd%3A0x88a4ea8a737cf600!2s61%2C%20Nishter%20block%20Bahria%20Town%2C%20Lahore%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1725094704851!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     type: FeaturedItem
 
   - title:
