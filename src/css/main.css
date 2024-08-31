@@ -336,6 +336,11 @@
     padding-top: 30px;
 }
 
+#bossman-main {
+    padding-top: 30px;
+    width: 100%;
+}
+
 #location {
     display:block;
     width: 100%;

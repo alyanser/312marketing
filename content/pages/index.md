@@ -210,7 +210,7 @@ sections:
     image:
       url: /images/bossman.jpg
       type: ImageBlock
-      elementId: bossman
+      elementId: bossman-main
     type: FeaturedItem
     justifyContent: center
 
