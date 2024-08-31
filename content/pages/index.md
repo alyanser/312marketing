@@ -164,6 +164,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: left
+            justifyContent: center
         type: FeaturedItem
 
       - title: Construction Services
@@ -187,6 +189,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: left
+            justifyContent: center
         type: FeaturedItem
     elementId: ''
     variant: two-col-grid
